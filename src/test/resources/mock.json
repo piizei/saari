@@ -1,0 +1,163 @@
+{
+  "data": {
+    "id": "stuff",
+    "type": "map",
+    "links": {
+      "self": "https://pjtesting.s3-eu-west-1.amazonaws.com/mock.json"
+    }
+  },
+  "attributes": {
+    "tiles": [
+      {
+        "x": 1,
+        "y": 1,
+        "type": "land"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "type": "land"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "type": "water"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "type": "water"
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "type": "land"
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "type": "water"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "type": "water"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "type": "land"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "type": "water"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "type": "water"
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "type": "water"
+      },
+      {
+        "x": 6,
+        "y": 2,
+        "type": "water"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "type": "water"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "type": "water"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "type": "water"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "type": "water"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "type": "land"
+      },
+      {
+        "x": 6,
+        "y": 3,
+        "type": "water"
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "type": "water"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "type": "water"
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "type": "land"
+      },
+      {
+        "x": 4,
+        "y": 4,
+        "type": "land"
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "type": "land"
+      },
+      {
+        "x": 6,
+        "y": 4,
+        "type": "water"
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "type": "water"
+      },
+      {
+        "x": 2,
+        "y": 5,
+        "type": "water"
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "type": "water"
+      },
+      {
+        "x": 4,
+        "y": 5,
+        "type": "land"
+      },
+      {
+        "x": 5,
+        "y": 5,
+        "type": "water"
+      },
+      {
+        "x": 6,
+        "y": 5,
+        "type": "water"
+      }
+    ]
+  }
+}
